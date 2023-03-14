@@ -1,0 +1,8 @@
+ctx.lineTo(955, 545)
+ctx.lineTo(953, 547)
+ctx.lineTo(953, 552)
+ctx.lineTo(955, 554)
+ctx.lineTo(958, 554)
+ctx.lineTo(960, 552)
+ctx.lineTo(960, 547)
+ctx.lineTo(958, 545)

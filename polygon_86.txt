@@ -1,0 +1,5 @@
+ctx.lineTo(929, 189)
+ctx.lineTo(929, 198)
+ctx.lineTo(934, 198)
+ctx.lineTo(930, 198)
+ctx.lineTo(929, 197)

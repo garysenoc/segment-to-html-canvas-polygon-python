@@ -1,0 +1,8 @@
+ctx.lineTo(339, 545)
+ctx.lineTo(337, 547)
+ctx.lineTo(337, 552)
+ctx.lineTo(339, 554)
+ctx.lineTo(342, 554)
+ctx.lineTo(344, 552)
+ctx.lineTo(344, 547)
+ctx.lineTo(342, 545)

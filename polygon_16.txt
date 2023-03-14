@@ -1,0 +1,7 @@
+ctx.lineTo(569, 570)
+ctx.lineTo(571, 570)
+ctx.lineTo(572, 571)
+ctx.lineTo(572, 579)
+ctx.lineTo(572, 571)
+ctx.lineTo(573, 570)
+ctx.lineTo(576, 570)

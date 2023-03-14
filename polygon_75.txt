@@ -1,0 +1,4 @@
+ctx.lineTo(45, 223)
+ctx.lineTo(45, 563)
+ctx.lineTo(246, 563)
+ctx.lineTo(246, 223)
